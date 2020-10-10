@@ -1,1 +1,1 @@
-# Predicting-Detroit-city-property-maintenance-fines-subject-to-blight-ticket-violations
+This project’s goal is to predict whether a given property maintenance blight ticket will be paid on time. Gradient Boosted Decision Tree Model was trained to understand when and why a resident might fail to comply with a blight ticket. This predictive modeling is assisted over SVC Classifier.
